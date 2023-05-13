@@ -1,7 +1,7 @@
 # This is a generated file; do not edit or check into version control.
-device_info_plus=/Users/ketanchoyal/.puro/shared/pub_cache/hosted/pub.dev/device_info_plus-8.1.0/
+device_info_plus=/Users/ketanchoyal/.pub-cache/hosted/pub.dev/device_info_plus-9.0.0/
 health=/Users/ketanchoyal/Desktop/Programming.nosync/Flutter.nosync/Complex Projects/calorie_tracker/packages/health/
-permission_handler=/Users/ketanchoyal/.puro/shared/pub_cache/hosted/pub.dev/permission_handler-10.0.0/
-permission_handler_android=/Users/ketanchoyal/.puro/shared/pub_cache/hosted/pub.dev/permission_handler_android-10.0.0/
-permission_handler_apple=/Users/ketanchoyal/.puro/shared/pub_cache/hosted/pub.dev/permission_handler_apple-9.0.4/
-permission_handler_windows=/Users/ketanchoyal/.puro/shared/pub_cache/hosted/pub.dev/permission_handler_windows-0.1.0/
+permission_handler=/Users/ketanchoyal/.pub-cache/hosted/pub.dev/permission_handler-10.2.0/
+permission_handler_android=/Users/ketanchoyal/.pub-cache/hosted/pub.dev/permission_handler_android-10.2.0/
+permission_handler_apple=/Users/ketanchoyal/.pub-cache/hosted/pub.dev/permission_handler_apple-9.0.8/
+permission_handler_windows=/Users/ketanchoyal/.pub-cache/hosted/pub.dev/permission_handler_windows-0.1.2/
